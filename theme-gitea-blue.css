@@ -2,49 +2,49 @@
 
 #repo-files-table a,
 .ui.fourteen.wide.column a {
-	color: #3572b0 !important;
+	color: #3572b0;
 }
 
 #navbar {
-	background: #205081 !important;
-	color: #FFF !important;
+	background: #205081;
+	color: #FFF;
 }
 
 /* notifications counter in top navigation bar */
 .notification_count {
-	background: #ffffff !important;
-	color: #000 !important;
+	background: #ffffff;
+	color: #000;
 }
 
 /* inactive navbar items */
 #navbar .item {
-    background: #205081 !important;
-	color: #ffffff !important;
+    background: #205081;
+	color: #ffffff;
 }
 
 /* active item in top navigation bar */
 #navbar .item.active {
-    background: #296ca3 !important;
-	color: #ffffff !important;
+    background: #296ca3;
+	color: #ffffff;
 }
 
 /* hover item in top navigation bar */
 #navbar .item:hover {
-    background: #296ca3 !important;
+    background: #296ca3;
 }
 
 #navbar .menu .item,
 #navbar .user-menu {
-	background: #205081 !important;
-    color: #ffffff !important;
+	background: #205081;
+    color: #ffffff;
 }
 #navbar .menu .item:hover {
-	background: #296ca3 !important;
-    color: #ffffff !important;
+	background: #296ca3;
+    color: #ffffff;
 }
 
 .ui.dropdown .menu>.header {
-	color: #ffffff !important;
+	color: #ffffff;
 }
 
 .feeds .list ul li.private {
@@ -57,16 +57,16 @@
 .ui.teal.button,
 .ui.primary.button
 {
-    background: #4183c4 !important;
-	color: #FFFFFF !important;
+    background: #4183c4;
+	color: #FFFFFF;
 }
 
 .ui.green.button:hover, 
 .ui.blue.button:hover, 
 .ui.teal.button:hover,
 .ui.primary.button:hover {
-    background: #31699f !important;
-	color: #FFFFFF !important;
+    background: #31699f;
+	color: #FFFFFF;
 }
 
 
@@ -75,11 +75,11 @@
 .ui.ui.ui.black.label,
 .ui.ui.ui.green.label
 {
-    background: #296ca3 !important;
-	color: #FFFFFF !important;
+    background: #296ca3;
+	color: #FFFFFF;
 }
 
 /* icons color customization */
 .ui .text.green {
-	color: #296ca3 !important;
+	color: #296ca3;
 }
