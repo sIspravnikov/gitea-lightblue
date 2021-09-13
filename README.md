@@ -4,6 +4,9 @@ Bitbucket/Jira design inspired.
 
 gitea versions: 1.14+
 
+Preview:
+![Repository Page](/images/lightblue-screenshot.png)
+
 <h4>Usage:</h4> 
 <ol>
   <li>Download the css file and place it in $GITEA_CUSTOM/public/css/.</li>
