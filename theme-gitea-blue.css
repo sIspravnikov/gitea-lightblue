@@ -11,8 +11,9 @@
   background: var(--color-gitea-lightblue-light);
 }
 
-svg.svg.octicon-git-merge {
-  color: var(--color-gitea-lightblue-dark);
+span.badge.bg-green.text-white {
+  background: var(--color-green) !important;
+  color: var(--color-text-white) !important;
 }
 /*
   end of custom
@@ -39161,8 +39162,8 @@ body>div[id*=mermaid-] {
   --color-orange: #f2711c;
   --color-yellow: #fbbd08;
   --color-olive: #b5cc18;
-  --color-green: var(--color-gitea-lightblue-light);
-  --color-teal: var(--color-gitea-lightblue-light);
+  --color-green: #209e27;
+  --color-teal: #3ca8a8;
   --color-blue: #2185d0;
   --color-violet: #6435c9;
   --color-purple: #a333c8;
@@ -39379,7 +39380,6 @@ a:hover, a.muted:hover, .ui.breadcrumb a:hover {
 .ui.menu .active.item, .ui.menu .active.item:hover, .ui.vertical.menu .active.item, .ui.vertical.menu .active.item:hover {
   color: var(--color-text);
   background: var(--color-white);
-  box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset, 0 12px 10px -10px rgba(0, 0, 0, 0.1);
 }
 
 .ui.link.menu .item:active, .ui.menu .link.item:active, .ui.menu a.item:active {
