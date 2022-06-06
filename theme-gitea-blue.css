@@ -17,7 +17,7 @@ span.badge.bg-green.text-white {
 }
 
 i.commit-status.check.icon.green {
-  background: var(--color-green) !important;
+  color: var(--color-green) !important;
 }
 
 /*
