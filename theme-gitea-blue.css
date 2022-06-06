@@ -15,6 +15,11 @@ span.badge.bg-green.text-white {
   background: var(--color-green) !important;
   color: var(--color-text-white) !important;
 }
+
+i.commit-status.check.icon.green {
+  background: var(--color-green) !important;
+}
+
 /*
   end of custom
 */
