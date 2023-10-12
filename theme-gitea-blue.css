@@ -39239,7 +39239,8 @@ body>div[id*=mermaid-] {
   --color-gitea-lightblue-light: #296ca3;
   --color-gitea-lightblue-dark: #205081;
   --color-text-white: #ffffff;
-  --color-nav-bg: var(--color-gitea-lightblue-dark)
+  --color-nav-bg: var(--color-gitea-lightblue-dark);
+  --color-nav-hover-bg: var(--color-gitea-lightblue-light);
   /* end of custom gitea-lightblue theme variables */
 }
 
