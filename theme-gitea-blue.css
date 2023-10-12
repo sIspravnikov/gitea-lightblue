@@ -37663,7 +37663,7 @@ span.ui.massive.text {
   text-align: center;
   position: relative;
   min-height: 125px;
-  display: block;
+  display: flex;
   align-items: center;
   justify-content: center
 }
@@ -39239,6 +39239,7 @@ body>div[id*=mermaid-] {
   --color-gitea-lightblue-light: #296ca3;
   --color-gitea-lightblue-dark: #205081;
   --color-text-white: #ffffff;
+  --color-nav-bg: var(--color-gitea-lightblue-dark)
   /* end of custom gitea-lightblue theme variables */
 }
 
