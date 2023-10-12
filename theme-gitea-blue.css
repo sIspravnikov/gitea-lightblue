@@ -37663,7 +37663,7 @@ span.ui.massive.text {
   text-align: center;
   position: relative;
   min-height: 125px;
-  display: flex;
+  display: block;
   align-items: center;
   justify-content: center
 }
