@@ -2,11 +2,6 @@
   custom
 */
 
-#navbar .item {
-  color: var(--color-text-white);
-
-}
-
 #navbar .item:hover {
   background: var(--color-gitea-lightblue-light);
 }
@@ -39241,6 +39236,7 @@ body>div[id*=mermaid-] {
   --color-text-white: #ffffff;
   --color-nav-bg: var(--color-gitea-lightblue-dark);
   --color-nav-hover-bg: var(--color-gitea-lightblue-light);
+  --color-nav-text: var(--color-white);
   /* end of custom gitea-lightblue theme variables */
 }
 
